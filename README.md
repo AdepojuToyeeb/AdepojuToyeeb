@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **AdepojuToyeeb/AdepojuToyeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# toyeeb
+
+### Hi 👋 I'm Adepoju Adewale
+---
+
+#### I am a Software Engineer based in Nigeria, FCT (Abuja).
+
+- ⚙️ Love workin with: `.ts`, `.js`, `.html`, `.scss`, `.json`
+
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img
+      align="center"
+      height="175"
+      width="390"
+    src="https://github-readme-stats.vercel.app/api?username=AdepojuToyeeb&show_icons=true&locale=en&theme=merko"
+      alt="dsaved"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      width="325"
+      height="175"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=AdepojuToyeeb&show_icons=true&locale=en&layout=compact&theme=merko"
+      alt="toyeeb"
+    />
+  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      width="325"
+      height="175"
+      align="center"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=AdepojuToyeeb&theme=merko"
+    alt="toyeeb"
+    />
+  </a>
+</div>
+

@@ -37,6 +37,16 @@ Here are some ideas to get you started:
       alt="toyeeb"
     />
   </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img
+      align="center"
+      height="175"
+      width="390"
+   src="https://github-readme-stats.vercel.app/api?username=AdepojuToyeeb&show_icons=true&locale=en&theme=merko"
+      alt="toyeeb"
+    />
+  </a>
+   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       width="325"

@@ -34,7 +34,7 @@ Here are some ideas to get you started:
       height="175"
       width="390"
     src="github-readme-stats-dq3f5r98u-adepojutoyeeb.vercel.app?username=AdepojuToyeeb&show_icons=true&locale=en&theme=merko"
-      alt="dsaved"
+      alt="toyeeb"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">

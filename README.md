@@ -33,7 +33,7 @@ Here are some ideas to get you started:
       align="center"
       height="175"
       width="390"
-    src="https://github-readme-stats-dq3f5r98u-adepojutoyeeb.vercel.app/api?username=AdepojuToyeeb&show_icons=true&locale=en&theme=merko"
+    src="github-readme-stats-c62gveh2r-adepojutoyeeb.vercel.app/api?username=AdepojuToyeeb&show_icons=true&locale=en&theme=merko"
       alt="toyeeb"
     />
   </a>

@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚙️ Love workin with: `.ts`, `.js` and sometimes `.dart`
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img
       align="center"
       height="175"
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 /api?username=AdepojuToyeeb&show_icons=true&locale=en&theme=merko"
       alt="toyeeb"
     />
-  </a>
+  </a> -->
 
    
   <a href="https://github.com/anuraghazra/github-readme-stats">

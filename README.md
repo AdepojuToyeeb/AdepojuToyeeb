@@ -31,8 +31,7 @@ Here are some ideas to get you started:
       align="center"
       height="175"
       width="390"
-    src="https://github-readme-stats.vercel.app
-/api?username=AdepojuToyeeb&show_icons=true&locale=en&theme=merko"
+     src="https://github-readme-stats.vercel.app/api?username=AdepojuToyeeb&show_icons=true&locale=en&theme=merko"
       alt="toyeeb"
     />
   </a>

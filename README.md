@@ -26,16 +26,16 @@ Here are some ideas to get you started:
 - ⚙️ Love workin with: `.ts`, `.js` and sometimes `.dart`
 
 <div align="center">
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img
       align="center"
       height="175"
       width="390"
-    src="https://github-readme-stats-roan-nine-84.vercel.app
+    src="https://github-readme-stats.vercel.app
 /api?username=AdepojuToyeeb&show_icons=true&locale=en&theme=merko"
       alt="toyeeb"
     />
-  </a> -->
+  </a>
 
    
   <a href="https://github.com/anuraghazra/github-readme-stats">

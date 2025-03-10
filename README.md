@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 ---
 
 #### I am a Software Engineer based in Nigeria, FCT (Abuja).
-
+<!--
 - 🔭 I’m currently learning DSA with Java
 - 🌱 I’m currently building mobile apps with flutter and react native
+- --->
 - 💬 Ask me about anything!
 - 📫 How to reach me: <a href="https://wa.me/08112213729">WhatsApp</a> or <a href="https://twitter.com/_tweeby">Twitter</a>
 - ⚙️ Love workin with: `.ts`, `.js` and sometimes `.dart`
